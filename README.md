@@ -1,6 +1,6 @@
 # Lunarix-Bin
-Created by  Team Lunara
-Overall process : https://youtu.be/DrZt3cNTjXQ?si=G5j3BsIONoMT5cT_
+- Created by  Team Lunara
+- Overall process : https://youtu.be/DrZt3cNTjXQ?si=G5j3BsIONoMT5cT_
 
 ## Overview
 Lunarix Bin is a smart waste segregation system that automatically separates metal, non-metal and wet materials using sensors.
